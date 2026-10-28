@@ -2,7 +2,7 @@
 
 ## Members
 
-| <img src="https://github.com/깃허브ID.png" width="100"> | <img src="https://github.com/깃허브ID.png" width="100"> | <img src="https://i.namu.wiki/i/EM9U6eJ1m5KjHX97cIx4cZ25ckZ9ycitjoVUo7roRGzBJlIr2sF9dyvTYxNxv50abecPNrnfZCECNXQHmmuOyQ.webp" width="100"> | <img src="https://github.com/깃허브ID.png" width="100"> |
+| <img src="https://i.namu.wiki/i/p-kA8rV1bepu_75w3CmXNdXx0zOqoATsN-AuMWCk391SnhlRQzU67JxViLjvqIijwJC6Uj8dJ1lkE5FijMYlZw.webp" width="100"> | <img src="https://github.com/깃허브ID.png" width="100"> | <img src="https://i.namu.wiki/i/EM9U6eJ1m5KjHX97cIx4cZ25ckZ9ycitjoVUo7roRGzBJlIr2sF9dyvTYxNxv50abecPNrnfZCECNXQHmmuOyQ.webp" width="100"> | <img src="https://github.com/깃허브ID.png" width="100"> |
 |:---:|:---:|:---:|:---:|
 | **남연서** | **류민지** | **이은교** | **최나현** |
 | 역할 | 역할 | 역할 | 역할 |
