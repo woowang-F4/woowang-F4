@@ -6,7 +6,7 @@
 |:---:|:---:|:---:|:---:|
 | **남연서** | **류민지** | **이은교** | **최나현** |
 | 역할 | 역할 | 역할 | 역할 |
-| [@깃허브ID](https://github.com/깃허브ID) | [@깃허브ID](https://github.com/깃허브ID) | [@깃허브ID](https://github.com/깃허브ID) | [@깃허브ID](https://github.com/깃허브ID) |
+| [@깃허브ID](https://github.com/yeontteo) | [@깃허브ID](https://github.com/ryu-min-ji) | [@깃허브ID](https://github.com/euungyo) | [@깃허브ID](https://github.com/nahyun2) |
 
 ## 🚀 Project
 
